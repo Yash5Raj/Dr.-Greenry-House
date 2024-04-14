@@ -1,0 +1,4 @@
+https://medium.com/geekculture/my-experience-deploying-an-app-with-streamlit-sharing-471e49905247
+https://www.hackster.io/ameya-upalanchi/plant-disease-detection-using-tenorflow-and-streamlit-8340e9
+https://github.com/Rishit-dagli/Greenathon-Plant-AI
+https://storage.googleapis.com/plantdata/PlantVillage.zip

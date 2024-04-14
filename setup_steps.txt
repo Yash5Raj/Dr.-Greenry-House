@@ -1,0 +1,15 @@
+Step - 1: Install 'virtualenv' if not present in your system
+	pip install virtualenv
+
+Step - 2: Create the virtual environment
+	python<version> -m venv <virtual-environment-name>
+	
+	FOR EXAMPLE:  mkdir projectA
+			 cd projectA
+			 python3.8 -m venv env
+
+Step - 3: For activating the envrionment open cmd and navigate to the dir where envrionment is installed and then run
+	 env/Scripts/activate.bat
+
+Step - 4: Now we need to install all the dependencies
+	pip install -r requirements.txt

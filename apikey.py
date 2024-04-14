@@ -1,0 +1,2 @@
+apikey_huggingface = "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"
+apikey_openai = "sk-lTWMbpYiDTCjbOlPtgYTT3BlbkFJyuz2lcLqzUKDKZY7bfDs3"
